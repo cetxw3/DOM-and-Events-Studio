@@ -92,7 +92,5 @@ window.addEventListener("load", function() {
         } else {
             event.stopPropagation(); 
         }
-      
-
     })
 });
